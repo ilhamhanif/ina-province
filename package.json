@@ -1,10 +1,10 @@
 {
-  "name": "web-scrapper",
+  "name": "other-things",
   "version": "1.0.0",
-  "description": "Project untuk Web Scrapping",
-  "main": "solution.js",
+  "description": "Other Things",
+  "main": "",
   "scripts": {
-    "solution": "node solution.js"
+    "solution": "node ina-province/solution.js"
   },
   "keywords": [
     "npm"
