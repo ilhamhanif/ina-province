@@ -131,3 +131,6 @@ dist
 
 package-lock.json
 package.json
+
+# Results
+indonesia-province.json
